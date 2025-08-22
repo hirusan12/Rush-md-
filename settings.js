@@ -6,7 +6,7 @@ function convertToBool(text, fault = 'true') {
 }
 
 module.exports = {
-    SESSION_ID: process.env.SESSION_ID || "VISPER-MD&K4ZEACgD#E_HsxJivTSmONfngwCanrgb7mpUChHkvmZ-22R1nO0Y",
+    SESSION_ID: process.env.SESSION_ID || "VISPER-MD&Og5ngTwS#rvImL0DQeQy2c8QtsLLuIYUWKtY2idXf46UmkjijpmQ",
     // add your Session Id make sure it starts with lite~
 
     PREFIX: process.env.PREFIX || ".",
